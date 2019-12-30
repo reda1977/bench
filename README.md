@@ -114,7 +114,7 @@ Open your Terminal and enter:
 
 For Linux:
 
-	wget https://raw.githubusercontent.com/frappe/bench/master/playbooks/install.py
+	wget https://raw.githubusercontent.com/reda1977/bench/master/playbooks/install.py
 
 
 #### 2. Run the install script
